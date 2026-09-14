@@ -4,8 +4,8 @@ Data analyst building toward data engineering. I question and reorganize data un
 
 ### What I'm working on
 
-**drone_deliveries** — Event-driven analytics pipeline modeling last-mile drone economics. Python, DuckDB, FastAPI.
-**Health_Cost** — Synthetic healthcare claims pipeline with 77 automated tests and PMPM cost-growth reporting.
+**drone_deliveries** — Event-driven analytics pipeline modeling last-mile drone economics. Python, DuckDB, FastAPI.\
+**Health_Cost** — Synthetic healthcare claims pipeline with 77 automated tests and PMPM cost-growth reporting.\
 **BotC_yog** — Behavioral analytics pipeline for gameplay video. Whisper transcription, NeMo diarization, 122 commits and counting.
 
 ### Stack
