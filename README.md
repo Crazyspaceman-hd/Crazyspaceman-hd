@@ -1,16 +1,13 @@
-### Hi there 👋
+### Henry Deane
 
-<!--
-**Crazyspaceman-hd/Crazyspaceman-hd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst building toward data engineering. I question and reorganize data until it has nothing more to tell me — then figure out what it can't support, which is usually the more important finding.
 
-Here are some ideas to get you started:
+### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**drone_deliveries** — Event-driven analytics pipeline modeling last-mile drone economics. Python, DuckDB, FastAPI.
+**Health_Cost** — Synthetic healthcare claims pipeline with 77 automated tests and PMPM cost-growth reporting.
+**BotC_yog** — Behavioral analytics pipeline for gameplay video. Whisper transcription, NeMo diarization, 122 commits and counting.
+
+### Stack
+
+Python · SQL · DuckDB · SQLite · pandas · FastAPI · pytest · Streamlit · Git
